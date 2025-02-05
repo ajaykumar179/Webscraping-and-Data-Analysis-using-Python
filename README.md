@@ -6,6 +6,4 @@
    ~ matplotlib
    ~ BeautifulSoup from bs4 
    ~ requests
-   ~ 
-   ~
-   ~
+   ~ yfinance
